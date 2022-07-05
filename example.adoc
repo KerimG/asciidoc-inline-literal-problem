@@ -1,0 +1,11 @@
+= Inline Literal Problem
+:doctype: book
+:encoding: utf-8
+:lang: en
+
+== Codeblock
+----
+console.log("hello world");
+----
+
+Hello, I am a `+literal: console.log("hello world");+`

@@ -1,0 +1,3 @@
+:pdf-stylesdir: {asciidoctorconfigdir}/.asciidoctor
+:pdf-style: example-pdf.yml
+:pdf-fontsdir: {asciidoctorconfigdir}/fonts
